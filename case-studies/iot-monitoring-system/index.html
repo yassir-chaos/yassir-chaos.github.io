@@ -17,7 +17,8 @@ prose-a:text-tech-blue prose-a:no-underline hover:prose-a:text-tech-orange
 prose-strong:text-tech-light prose-strong:font-bold
 prose-ul:text-gray-400 prose-li:text-gray-400
 prose-code:text-tech-blue prose-code:bg-tech-slate prose-code:px-1 prose-code:py-0.5
-prose-pre:bg-tech-slate prose-pre:border prose-pre:border-tech-blue"><h2 id=project-overview>Project Overview</h2><p>TechManufacturing Inc. operates a state-of-the-art facility with hundreds of
+prose-pre:bg-tech-slate prose-pre:border prose-pre:border-tech-blue"><h2 id=project-overview>Project Overview</h2><p><img src=assets/header.jpg alt="A beautiful sunset">
+TechManufacturing Inc. operates a state-of-the-art facility with hundreds of
 production lines generating massive amounts of sensor data. Their legacy
 monitoring system was causing production delays due to slow data processing and
 frequent failures.</p><h2 id=technical-approach>Technical Approach</h2><h3 id=hardware-layer>Hardware Layer</h3><p>We developed a custom FPGA solution using Xilinx Artix-7 that:</p><ul><li>Handles parallel data streams from 500+ sensors</li><li>Performs real-time signal conditioning and filtering</li><li>Implements deterministic data routing with guaranteed latency</li></ul><h3 id=software-architecture>Software Architecture</h3><p>The software stack consists of:</p><ul><li>High-performance data ingestion service in Python</li><li>TimescaleDB for time-series data storage</li><li>MQTT broker for reliable message queuing</li><li>React-based dashboard for real-time visualization</li></ul><h2 id=implementation-challenges>Implementation Challenges</h2><p>The most significant challenge was achieving sub-millisecond latency while

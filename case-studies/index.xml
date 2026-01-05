@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Case-Studies on Chaos Engine</title><link>https://yassir-chaos.github.io/case-studies/</link><description>Recent content in Case-Studies on Chaos Engine</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://yassir-chaos.github.io/case-studies/index.xml" rel="self" type="application/rss+xml"/><item><title>Real-Time IoT Monitoring System for Industrial Manufacturing</title><link>https://yassir-chaos.github.io/case-studies/iot-monitoring-system/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://yassir-chaos.github.io/case-studies/iot-monitoring-system/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
-&lt;p&gt;TechManufacturing Inc. operates a state-of-the-art facility with hundreds of
+&lt;p&gt;&lt;img src="assets/header.jpg" alt="A beautiful sunset"&gt;
+TechManufacturing Inc. operates a state-of-the-art facility with hundreds of
 production lines generating massive amounts of sensor data. Their legacy
 monitoring system was causing production delays due to slow data processing and
 frequent failures.&lt;/p&gt;
